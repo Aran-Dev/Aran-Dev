@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aran Farzami 👋
 
-<!--
-**Aran-Dev/Aran-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer interested in cybersecurity.  
+Currently focusing on C#.
 
-Here are some ideas to get you started:
+### 🚀 What I’m currently working on:
+- Developing software that can make life a little easier.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m learning:
+- I'm learning every day and continuously staying updated.
+
+### 📫 How to reach me:
+- Email: [aranfarzam@gmail.com](mailto:aranfarzam@gmail.com)
+- Telegram: [@VOX_True](https://t.me/VOX_True)
+
+### 🔧 Technologies I work with:
+- Programming Languages: C#, Python
+- Tools: Git, Visual Studio
+- Concepts: Reverse Engineering, Databases
